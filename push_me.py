@@ -1,1 +1,1 @@
-print('Hello from conflict-test')
+print('Еще раз поменял текст')
